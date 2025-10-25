@@ -1,0 +1,25 @@
+{
+  "name": "@arindam/todo-cli",
+  "version": "1.0.0",
+  "description": "A simple filesystem-based Todo CLI built with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "todo": "./index.js"
+  },
+  "keywords": ["todo-cli",
+    "todo",
+    "cli",
+    "nodejs",
+    "chalk",
+    "commander"],
+  "author": "Arindam Dinda <dindaarindam000@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "commander": "^14.0.2"
+  }
+}
