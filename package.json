@@ -1,5 +1,5 @@
 {
-  "name": "@arindam/todo-cli",
+  "name": "@arindam24/todo-cli",
   "version": "1.0.0",
   "description": "A simple filesystem-based Todo CLI built with Node.js",
   "main": "index.js",

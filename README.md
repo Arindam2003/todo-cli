@@ -1,4 +1,4 @@
-# 📝 arindam / todo-cli
+# 📝 arindam24/todo-cli
 
 A simple **command-line Todo application** built with Node.js.  
 Manage your tasks directly from the terminal! Todos are stored globally in your current directory.
