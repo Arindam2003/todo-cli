@@ -91,13 +91,13 @@ Output:
 To contribute or modify the project, clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/yourusername/todo-cli.git
+git clone https://github.com/Arindam2003/todo-cli
 cd todo-cli
 npm install
 ```
 
 ## ❤️Author
-Developed by Arindam Dinda -- [GitHub](https://github.com/yourusername/todo-cli.git)
+Developed by Arindam Dinda -- [GitHub](https://github.com/Arindam2003/todo-cli)
 
 ## 📄 License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
