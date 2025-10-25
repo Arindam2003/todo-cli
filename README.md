@@ -10,12 +10,12 @@ Manage your tasks directly from the terminal! Todos are stored globally in your 
 Install globally using npm:
 
 ```bash
-npm install -g @arindam/todo-cli
+npm install -g @arindam24/todo-cli
 ```
 Install local folder using npm:
 
 ```bash
-npm install @arindam/todo-cli
+npm install @arindam24/todo-cli
 ```
 
 ## 🚀 Usage
